@@ -1,6 +1,28 @@
 
 
 
+### Outputs
+
+<table>
+  <tr>
+    <td> <img src="https://github.com/user-attachments/assets/250a30f0-10db-4750-a81b-e3ea86b00687"  alt="1" width = 660px height = 360px ></td>
+
+   
+ <video src="https://github.com/user-attachments/assets/cc5a869c-4852-421f-b1a0-71a877635087.mp4" width="300" />
+
+
+
+   </tr> 
+   <tr>
+      <td><img src="https://github.com/user-attachments/assets/2d70afbd-f80c-4e53-8331-4e49535424c0" alt="3" width = 660px height = 360px></td>
+
+<video src="https://github.com/user-attachments/assets/83f3ff3f-2721-4fa6-8d86-2be470fdd6f4.mp4" width="300" />
+     
+  
+  </tr>
+</table>
+
+
 <h5 align="center">
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/ConsisID-jupyter/blob/main/ConsisID_jupyter.ipynb)
