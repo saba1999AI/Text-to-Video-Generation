@@ -5,20 +5,22 @@
 
 <table>
   <tr>
-    <td> <img src="https://github.com/user-attachments/assets/250a30f0-10db-4750-a81b-e3ea86b00687"  alt="1" width = 660px height = 360px ></td>
+    <td> <img src="https://github.com/user-attachments/assets/250a30f0-10db-4750-a81b-e3ea86b00687"  alt="1" width = 960px height = 360px ></td>
 
    
  <video src="https://github.com/user-attachments/assets/cc5a869c-4852-421f-b1a0-71a877635087.mp4" width="300" />
 
-
+<td>Prompt : "A glamorous portrait of an elegant woman in a sparkling navy blue gown with intricate detailing. She exudes sophistication, wearing bold red lipstick and dazzling diamond-shaped earrings, set against a blurred background of a prestigious event."</td>
 
    </tr> 
    <tr>
-      <td><img src="https://github.com/user-attachments/assets/2d70afbd-f80c-4e53-8331-4e49535424c0" alt="3" width = 660px height = 360px></td>
+      <td><img src="https://github.com/user-attachments/assets/2d70afbd-f80c-4e53-8331-4e49535424c0" alt="3" width = 960px height = 360px></td>
 
 <video src="https://github.com/user-attachments/assets/83f3ff3f-2721-4fa6-8d86-2be470fdd6f4.mp4" width="300" />
      
-  
+  <td>Prompt : "A stunning close-up portrait of an elegant woman dressed in a strapless white gown, adorned with layered silver and black necklaces. Her makeup highlights bold red lips and a sharp cat-eye, complemented by soft waves of golden hair cascading over her shoulder. The background features subtle hints of a glamorous event with blurred golden accents."
+
+</td>
   </tr>
 </table>
 
