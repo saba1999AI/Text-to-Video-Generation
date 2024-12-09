@@ -149,10 +149,3 @@ BestWishYsh/ConsisID-preview-Data \
 ```
 
 
-
-## 🤝 Contributors
-
-<a href="https://github.com/PKU-YuanGroup/ConsisID/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=PKU-YuanGroup/ConsisID&anon=true" />
-
-</a>
